@@ -1,0 +1,50 @@
+# Java build output
+/bin/
+/build/
+/out/
+/target/
+
+# IntelliJ / JetBrains IDEs
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+*.bak
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+gradle.properties
+gradlew
+gradlew.bat
+
+# Maven
+.mvn/
+!mvn/wrapper/maven-wrapper.jar
+dependency-reduced-pom.xml
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment / tool config
+*.env
+*.swp
+*.swo
+
+# Velocity plugin config files (runtime-generated)
+config.toml
