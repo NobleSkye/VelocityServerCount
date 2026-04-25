@@ -1,0 +1,8 @@
+{
+  "id": "onlineservercount",
+  "name": "OnlineServerCount",
+  "version": "1.0.0",
+  "description": "Displays the number of online backend servers in the player count instead of actual player count",
+  "authors": ["NobleSkye"],
+  "main": "nobleskye.dev.OnlineServerCountPlugin"
+}
